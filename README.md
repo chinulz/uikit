@@ -23,9 +23,10 @@
 </pre>
 <br>
 <h3>HTML TEMPLATE<h3>
-<pre>
-&lt;!DOCTYPE html&gt;
-&lt;htm lang=&quot;en&quot;l&gt;
+    
+``` html
+<!DOCTYPE html>
+<html lang="en">
 
     <head>
         <title>Uikit Enjoy</title>
@@ -46,6 +47,8 @@
     <body>
     	<h1>Hello World!</h1>
     </body>
-    </html>
-</pre>
+    
+</html>
+```
+    
 # Enjoy
